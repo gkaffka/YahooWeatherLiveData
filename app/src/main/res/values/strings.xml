@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YahooWeather</string>
+    <string name="check_weather">Verificar a previsão do tempo</string>
+    <string name="weather_forecast">Previsão do Tempo</string>
+    <string name="permission_required">Permissão necessária para o funcionamento do aplicativo</string>
+    <string name="unable_to_acquire_location">Não foi possível obter a sua localização</string>
+    <string name="location_acquired">Localização obtida</string>
+    <string name="error">Ops, algo deu errado :(</string>
+    <string name="acquiring_location">Adquirindo localização...</string>
+</resources>
